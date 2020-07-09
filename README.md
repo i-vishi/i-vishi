@@ -1,4 +1,4 @@
-### Hi there 👋, I am Vishal.
+### Hi 👋, I am Vishal.
 
 <!--
 **i-vishi/i-vishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
