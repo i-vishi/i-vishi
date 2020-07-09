@@ -1,4 +1,4 @@
-### Hi 👋, I am Vishal.
+### नमस्ते :pray:
 
 <!--
 **i-vishi/i-vishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
