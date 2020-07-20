@@ -29,6 +29,11 @@ struct vishal
     string funFact              = "I hate JAVA"; 
 };
 ```
+- :mailbox: Reach out to me at <br>
+[![Twitter Badge](https://img.shields.io/badge/-@iamvishalgaur-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iamvishalgaur)](https://twitter.com/iamvishalgaur)
+[![Linkedin Badge](https://img.shields.io/badge/-i--vishi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/i-vishi/)](https://www.linkedin.com/in/i-vishi/)
+[![GitHub i-vishi](https://img.shields.io/github/followers/i-vishi?label=follow&style=social)](https://github.com/i-vishi)
+
 <!--
 **i-vishi/i-vishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
