@@ -1,5 +1,34 @@
 ### नमस्ते :pray:
 
+### About me...  
+
+```c++
+struct vishal
+{
+    string username             = "i-vishi";
+    
+    vector<string> pronouns     = {"He", "Him"};
+    
+    vector<string> whatIdo      = {"web dev", "app dev", "competitive proggramming", "blockchain", "ethereum"};
+    
+    string preferredLanguage    = "C++";
+    
+    vector<string> alsoCodesIn  = {"C", "Python", "Java", "Javascript", "Dart", "php", "solidity"};
+    
+    struct technologiesIknow {
+    
+        vector<string> frontend = {"vuejs", "react"};
+        
+        vector<string> backend  = {"nodejs", "expressjs", "django"};
+        
+        vector<string> databases= {"mysql", "mongodb"};
+        
+        vector<string> appDev   = {"flutter"};
+    };
+    
+    string funFact              = "I hate JAVA"; 
+};
+```
 <!--
 **i-vishi/i-vishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
