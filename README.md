@@ -9,7 +9,7 @@ struct vishal
     
     vector<string> pronouns     = {"He", "Him"};
     
-    vector<string> whatIdo      = {"web dev", "app dev", "competitive proggramming", "blockchain", "ethereum"};
+    vector<string> whatIdo      = {"web dev", "app dev", "competitive programming", "blockchain", "ethereum"};
     
     string preferredLanguage    = "C++";
     
@@ -25,8 +25,6 @@ struct vishal
         
         vector<string> appDev   = {"flutter"};
     };
-    
-    string funFact              = "I hate JAVA"; 
 };
 ```
 - :mailbox: Reach out to me at <br>
