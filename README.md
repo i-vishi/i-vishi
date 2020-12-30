@@ -9,11 +9,11 @@ struct vishal
     
     vector<string> pronouns     = {"He", "Him"};
     
-    vector<string> whatIdo      = {"web dev", "app dev", "competitive programming", "blockchain", "ethereum"};
+    vector<string> whatIdo      = {"web dev", "competitive programming", "blockchain", "ethereum"};
     
     string preferredLanguage    = "C++";
     
-    vector<string> alsoCodesIn  = {"C", "Python", "Java", "Javascript", "Dart", "php", "solidity"};
+    vector<string> alsoCodesIn  = {"C", "Python", "Java", "Javascript", "php", "solidity"};
     
     struct technologiesIknow {
     
@@ -22,8 +22,6 @@ struct vishal
         vector<string> backend  = {"nodejs", "expressjs", "django"};
         
         vector<string> databases= {"mysql", "mongodb"};
-        
-        vector<string> appDev   = {"flutter"};
     };
 };
 ```
